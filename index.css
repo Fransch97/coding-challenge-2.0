@@ -9,7 +9,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-/*for background opacity*/
+/*for background opacity and sizing*/
 #opacityback{
     background-color: rgba(0, 0, 0, 0.75);
     height: 750px;
